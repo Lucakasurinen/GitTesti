@@ -1,9 +1,12 @@
+
 body {
     background-color: lightskyblue;
     
 }
 
-h1 {
+h1{
+    color: purple;
     text-align: center;
-    color: blueviolet;
+    font-weight: bold;
 }
+
